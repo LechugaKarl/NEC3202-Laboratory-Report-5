@@ -21,8 +21,14 @@ OBJECTIVES:
 - To model channel effects including noise and phase shifts.
 - To perform full demodulation of a QPSK signal using synchronous detection.
 - To analyze the effects of varying signal-to-noise ratios (SNR) on data recovery.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+SCHEMATIC DIAGRAM:
+![Image Alt]()
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 <details>
 <summary>Part A - Verifying Parallel-to-Serial & Serial-to-Parallel Conversion </summary>
 This phase involves converting a serial digital stream into two parallel streams and then recombining them. This is the foundation of QPSK, where data is
 split to be modulated onto orthogonal carriers. 
+
+![Image Alt]()
